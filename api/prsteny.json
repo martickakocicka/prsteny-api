@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "nazev": "Narya: jeden z elfských",
+    "img": "/assets/narya.jpg",
+    "nositel": "Gandalf",
+    "barva": "osazen rubínem",
+    "vlastnost": "probouzet naději a dobro"
+  },
+  {
+    "id": 1,
+    "nazev": "Nenya: jeden z elfských",
+    "img": "/assets/nenya.jpg",
+    "nositel": "Galadriel",
+    "barva": "mithril, osazen diamantem",
+    "vlastnost": "uchovávat sílu, ochrana"
+  },
+  {
+    "id": 2,
+    "nazev": "Vilya: jeden z elfských",
+    "img": "/assets/vilya.jpg",
+    "nositel": "Elrond",
+    "barva": "zlato, osazen safírem",
+    "vlastnost": "nejmocnější z elfských prstenů, prsten Vzduchu"
+  },
+  {
+    "id": 3,
+    "nazev": "1 z lidských: náhodný výběr",
+    "img": "/assets/mortal9.jpg",
+    "nositel": "např. černokněžný král Angmaru",
+    "barva": "náhodná",
+    "vlastnost": "nositel propadne zlu"
+  },
+  {
+    "id": 4,
+    "nazev": "1 z trpasličích: náhodný výběr",
+    "img": "/assets/dwarfs.jpg",
+    "nositel": "např. Thráin",
+    "barva": "náhodná",
+    "vlastnost": "zesiluje touhu po zlatě a bohatství"
+  },
+  {
+    "id": 5,
+    "nazev": "Jeden Prsten",
+    "img": "/assets/jeden.jpg",
+    "nositel": "Morgoth",
+    "barva": "nelze specifikovat, zlatý vzhled",
+    "vlastnost": "Jeden Prsten vládne všem, jeden jim všem káže, jeden všechny přivede, do temnoty sváže"
+  }
+]
